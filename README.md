@@ -1,1 +1,1 @@
-# example-job-market-materials
+# job-market-materials
